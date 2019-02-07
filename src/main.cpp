@@ -53,6 +53,7 @@ char auth[] = "bc1b1dc815d641d4a436f2724ffdac92";
 char ssid[] = "Rachel's iPhone";
 char pass[] = "cmfj1b5fv2kff";
 
+// Classroom WiFi credentialsS
 // char ssid[] = "Telstra57627C";
 // char pass[] = "A5B36617BD";
 
